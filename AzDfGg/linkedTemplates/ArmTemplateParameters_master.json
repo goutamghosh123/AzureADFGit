@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "AzDfGg"
 		},
+		"datalake_LS_accountKey": {
+			"value": ""
+		},
+		"datalake_LS_properties_typeProperties_url": {
+			"value": "https://azstrgaccdemo.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
